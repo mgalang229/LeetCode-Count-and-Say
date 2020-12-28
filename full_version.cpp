@@ -2,6 +2,8 @@
 
 using namespace std;
 
+// this program is created using functions unlike the previous code
+
 string Count(string s) {
 	int n = s.size();
 	string ss;
